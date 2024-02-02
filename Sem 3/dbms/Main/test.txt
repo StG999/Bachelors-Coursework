@@ -1,0 +1,14 @@
+127.0.0.1/stock_mgmt/supplier/,,http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=stock_mgmt&table=supplier
+
+   Showing rows 0 -  4 (5 total, Query took 0.0002 seconds.)
+
+
+SELECT * FROM `supplier`
+
+
+supplier_id,name,contact_no,address,city,balance,
+3000,DR Distributers Pvt Ltd,8492018372,Okhla Industrial Area,New Delhi,-18913,
+3001,Lucky Pharma,9102872312,Jamia Milia Area,New Delhi,-912,
+3002,Nestle India Pvt Ltd,7282193021,Hisar,Hisar,1213,
+3003,Anand Pharmaceuticals,9128391238,Anupam Apartments,New Delhi,NULL,
+3004,Cadbury India Ltd,8729102837,Navi Mumbai,Mumbai,7812,
